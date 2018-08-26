@@ -1,4 +1,4 @@
-#Causal inference foundations and applications in environmental health sciences
+Causal inference foundations and applications in environmental health sciences
 
 Data, code, and slides from Alexander Keil
 
